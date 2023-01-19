@@ -1,0 +1,26 @@
+/* Styling goes in this file */
+body {
+	font-family: Arial;
+}
+
+<style>
+h1 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+
+div { 
+	border:1px solid black; 
+}
+
+#div2 { 
+	border: 1px solid black; 
+}
+
+#p1 {
+	color: #006400;
+}
+
+</style>
